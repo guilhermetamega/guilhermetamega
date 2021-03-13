@@ -1,4 +1,5 @@
 ### Hi👋! Im Guilherme Tâmega.
+- 🌱 I’m currently learning GitHub and HTML.
 
 <!--
 **guilhermetamega/guilhermetamega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
