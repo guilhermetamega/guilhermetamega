@@ -1,5 +1,5 @@
 ### Hi👋! Im Guilherme Tâmega.
-- 🌱 I’m currently learning ReactJS, JavaScript and English.
+- 🌱 I’m currently learning ReactJS, NextJs, JavaScript and English.
 
 <!--
 **guilhermetamega/guilhermetamega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
